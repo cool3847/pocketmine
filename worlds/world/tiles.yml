@@ -1,0 +1,991 @@
+---
+- 
+  Items:
+    1:
+      Count: 1
+      Slot: 1
+      id: 277
+      Damage: 70
+    2:
+      Count: 64
+      Slot: 2
+      id: 265
+      Damage: 0
+    3:
+      Count: 58
+      Slot: 3
+      id: 265
+      Damage: 0
+    4:
+      Count: 1
+      Slot: 4
+      id: 354
+      Damage: 0
+    5:
+      Count: 1
+      Slot: 5
+      id: 354
+      Damage: 0
+    6:
+      Count: 1
+      Slot: 6
+      id: 354
+      Damage: 0
+    7:
+      Count: 1
+      Slot: 7
+      id: 354
+      Damage: 0
+    8:
+      Count: 1
+      Slot: 8
+      id: 354
+      Damage: 0
+    9:
+      Count: 1
+      Slot: 9
+      id: 354
+      Damage: 0
+    10:
+      Count: 1
+      Slot: 10
+      id: 354
+      Damage: 0
+    11:
+      Count: 1
+      Slot: 11
+      id: 354
+      Damage: 0
+    12:
+      Count: 1
+      Slot: 12
+      id: 354
+      Damage: 0
+    13:
+      Count: 1
+      Slot: 13
+      id: 354
+      Damage: 0
+    15:
+      Count: 1
+      Slot: 15
+      id: 354
+      Damage: 0
+    16:
+      Count: 1
+      Slot: 16
+      id: 354
+      Damage: 0
+    17:
+      Count: 1
+      Slot: 17
+      id: 354
+      Damage: 0
+    18:
+      Count: 1
+      Slot: 18
+      id: 354
+      Damage: 0
+    19:
+      Count: 1
+      Slot: 19
+      id: 354
+      Damage: 0
+    20:
+      Count: 22
+      Slot: 20
+      id: 112
+      Damage: 0
+    22:
+      Count: 1
+      Slot: 22
+      id: 275
+      Damage: 0
+    23:
+      Count: 61
+      Slot: 23
+      id: 264
+      Damage: 0
+    24:
+      Count: 3
+      Slot: 24
+      id: 37
+      Damage: 0
+    25:
+      Count: 17
+      Slot: 25
+      id: 264
+      Damage: 0
+    26:
+      Count: 1
+      Slot: 14
+      id: 355
+      Damage: 0
+    27:
+      Count: 1
+      Slot: 21
+      id: 355
+      Damage: 0
+    28:
+      Count: 1
+      Slot: 26
+      id: 355
+      Damage: 0
+  id: Chest
+  x: 200
+  y: 70
+  z: 63
+  pairx: 199
+  pairz: 63
+- 
+  Items:
+    0:
+      Count: 1
+      Slot: 0
+      id: 283
+      Damage: 19
+    1:
+      Count: 1
+      Slot: 1
+      id: 283
+      Damage: 19
+    2:
+      Count: 1
+      Slot: 2
+      id: 283
+      Damage: 19
+    3:
+      Count: 1
+      Slot: 3
+      id: 283
+      Damage: 19
+    4:
+      Count: 1
+      Slot: 4
+      id: 283
+      Damage: 19
+    5:
+      Count: 1
+      Slot: 5
+      id: 283
+      Damage: 19
+    6:
+      Count: 1
+      Slot: 6
+      id: 354
+      Damage: 0
+    7:
+      Count: 1
+      Slot: 7
+      id: 354
+      Damage: 0
+    9:
+      Count: 6
+      Slot: 9
+      id: 280
+      Damage: 0
+    10:
+      Count: 64
+      Slot: 10
+      id: 48
+      Damage: 0
+    11:
+      Count: 26
+      Slot: 11
+      id: 57
+      Damage: 0
+    12:
+      Count: 1
+      Slot: 12
+      id: 355
+      Damage: 0
+    13:
+      Count: 1
+      Slot: 13
+      id: 355
+      Damage: 0
+    14:
+      Count: 1
+      Slot: 14
+      id: 355
+      Damage: 0
+    15:
+      Count: 1
+      Slot: 15
+      id: 355
+      Damage: 0
+    16:
+      Count: 1
+      Slot: 16
+      id: 355
+      Damage: 0
+    17:
+      Count: 1
+      Slot: 17
+      id: 355
+      Damage: 0
+    18:
+      Count: 1
+      Slot: 18
+      id: 355
+      Damage: 0
+  id: Chest
+  x: 199
+  y: 70
+  z: 63
+  pairx: 200
+  pairz: 63
+- 
+  Items: [ ]
+  id: Chest
+  x: 196
+  y: 70
+  z: 63
+  pairx: 197
+  pairz: 63
+- 
+  Items:
+    4:
+      Count: 1
+      Slot: 4
+      id: 276
+      Damage: 21
+    5:
+      Count: 1
+      Slot: 5
+      id: 278
+      Damage: 127
+    6:
+      Count: 1
+      Slot: 6
+      id: 383
+      Damage: 0
+  id: Chest
+  x: 197
+  y: 70
+  z: 63
+  pairx: 196
+  pairz: 63
+- 
+  Items:
+    - 
+      Count: 1
+      Slot: 0
+      id: 354
+      Damage: 0
+    - 
+      Count: 6
+      Slot: 1
+      id: 112
+      Damage: 0
+    - 
+      Count: 64
+      Slot: 2
+      id: 5
+      Damage: 0
+    - 
+      Count: 2
+      Slot: 3
+      id: 3
+      Damage: 0
+    - 
+      Count: 64
+      Slot: 4
+      id: 264
+      Damage: 0
+    - 
+      Count: 1
+      Slot: 5
+      id: 283
+      Damage: 19
+    - 
+      Count: 1
+      Slot: 6
+      id: 354
+      Damage: 0
+    - 
+      Count: 64
+      Slot: 7
+      id: 5
+      Damage: 0
+    - 
+      Count: 51
+      Slot: 8
+      id: 5
+      Damage: 0
+    - 
+      Count: 64
+      Slot: 9
+      id: 41
+      Damage: 0
+    - 
+      Count: 23
+      Slot: 10
+      id: 41
+      Damage: 0
+    - 
+      Count: 28
+      Slot: 11
+      id: 4
+      Damage: 0
+    - 
+      Count: 2
+      Slot: 12
+      id: 13
+      Damage: 0
+    - 
+      Count: 1
+      Slot: 13
+      id: 278
+      Damage: 125
+    - 
+      Count: 1
+      Slot: 14
+      id: 275
+      Damage: 34
+    - 
+      Count: 64
+      Slot: 15
+      id: 89
+      Damage: 0
+    - 
+      Count: 58
+      Slot: 16
+      id: 89
+      Damage: 0
+    - 
+      Count: 1
+      Slot: 18
+      id: 276
+      Damage: 333
+    - 
+      Count: 64
+      Slot: 19
+      id: 265
+      Damage: 0
+    - 
+      Count: 41
+      Slot: 20
+      id: 65
+      Damage: 0
+    - 
+      Count: 61
+      Slot: 21
+      id: 96
+      Damage: 0
+    - 
+      Count: 1
+      Slot: 22
+      id: 283
+      Damage: 26
+    - 
+      Count: 1
+      Slot: 17
+      id: 278
+      Damage: 19
+  id: Chest
+  x: 193
+  y: 71
+  z: 63
+  pairx: 194
+  pairz: 63
+- 
+  Items:
+    0:
+      Count: 7
+      Slot: 0
+      id: 46
+      Damage: 0
+    1:
+      Count: 1
+      Slot: 1
+      id: 300
+      Damage: 0
+    2:
+      Count: 1
+      Slot: 2
+      id: 300
+      Damage: 0
+    3:
+      Count: 62
+      Slot: 3
+      id: 300
+      Damage: 0
+    4:
+      Count: 64
+      Slot: 4
+      id: 50
+      Damage: 0
+    5:
+      Count: 1
+      Slot: 5
+      id: 354
+      Damage: 0
+    7:
+      Count: 64
+      Slot: 7
+      id: 50
+      Damage: 0
+    8:
+      Count: 64
+      Slot: 8
+      id: 50
+      Damage: 0
+    9:
+      Count: 62
+      Slot: 9
+      id: 50
+      Damage: 0
+    10:
+      Count: 36
+      Slot: 10
+      id: 255
+      Damage: 0
+    11:
+      Count: 1
+      Slot: 11
+      id: 354
+      Damage: 0
+    12:
+      Count: 1
+      Slot: 12
+      id: 275
+      Damage: 0
+    13:
+      Count: 1
+      Slot: 13
+      id: 354
+      Damage: 0
+    14:
+      Count: 12
+      Slot: 14
+      id: 338
+      Damage: 0
+    15:
+      Count: 64
+      Slot: 15
+      id: 39
+      Damage: 0
+    16:
+      Count: 1
+      Slot: 16
+      id: 354
+      Damage: 0
+    18:
+      Count: 1
+      Slot: 18
+      id: 283
+      Damage: 19
+    19:
+      Count: 1
+      Slot: 19
+      id: 275
+      Damage: 0
+    20:
+      Count: 1
+      Slot: 20
+      id: 283
+      Damage: 19
+    21:
+      Count: 1
+      Slot: 21
+      id: 275
+      Damage: 0
+    22:
+      Count: 1
+      Slot: 22
+      id: 354
+      Damage: 0
+    23:
+      Count: 1
+      Slot: 23
+      id: 283
+      Damage: 19
+    24:
+      Count: 52
+      Slot: 24
+      id: 58
+      Damage: 0
+    25:
+      Count: 1
+      Slot: 25
+      id: 275
+      Damage: 0
+    26:
+      Count: 64
+      Slot: 26
+      id: 5
+      Damage: 0
+  id: Chest
+  x: 194
+  y: 71
+  z: 63
+  pairx: 193
+  pairz: 63
+- 
+  Items:
+    - 
+      Count: 64
+      Slot: 0
+      id: 41
+      Damage: 0
+    - 
+      Count: 64
+      Slot: 1
+      id: 46
+      Damage: 0
+    - 
+      Count: 22
+      Slot: 2
+      id: 12
+      Damage: 0
+    - 
+      Count: 64
+      Slot: 3
+      id: 3
+      Damage: 0
+    - 
+      Count: 64
+      Slot: 4
+      id: 4
+      Damage: 0
+    - 
+      Count: 64
+      Slot: 5
+      id: 4
+      Damage: 0
+    - 
+      Count: 64
+      Slot: 6
+      id: 4
+      Damage: 0
+    - 
+      Count: 64
+      Slot: 7
+      id: 4
+      Damage: 0
+    - 
+      Count: 64
+      Slot: 8
+      id: 348
+      Damage: 0
+    - 
+      Count: 42
+      Slot: 9
+      id: 5
+      Damage: 0
+    - 
+      Count: 1
+      Slot: 10
+      id: 112
+      Damage: 0
+    - 
+      Count: 19
+      Slot: 11
+      id: 280
+      Damage: 0
+    - 
+      Count: 64
+      Slot: 12
+      id: 30
+      Damage: 0
+    - 
+      Count: 7
+      Slot: 13
+      id: 3
+      Damage: 0
+    - 
+      Count: 64
+      Slot: 14
+      id: 50
+      Damage: 0
+    - 
+      Count: 13
+      Slot: 15
+      id: 48
+      Damage: 0
+    - 
+      Count: 64
+      Slot: 16
+      id: 50
+      Damage: 0
+    - 
+      Count: 64
+      Slot: 17
+      id: 50
+      Damage: 0
+    - 
+      Count: 1
+      Slot: 18
+      id: 354
+      Damage: 0
+    - 
+      Count: 3
+      Slot: 19
+      id: 4
+      Damage: 0
+    - 
+      Count: 1
+      Slot: 20
+      id: 355
+      Damage: 0
+    - 
+      Count: 8
+      Slot: 21
+      id: 348
+      Damage: 0
+    - 
+      Count: 51
+      Slot: 22
+      id: 30
+      Damage: 0
+    - 
+      Count: 1
+      Slot: 23
+      id: 276
+      Damage: 196
+    - 
+      Count: 35
+      Slot: 24
+      id: 264
+      Damage: 0
+    - 
+      Count: 52
+      Slot: 25
+      id: 50
+      Damage: 0
+    - 
+      Count: 1
+      Slot: 26
+      id: 279
+      Damage: 0
+  id: Chest
+  x: 193
+  y: 70
+  z: 61
+  pairx: 194
+  pairz: 61
+- 
+  Items:
+    0:
+      Count: 1
+      Slot: 0
+      id: 283
+      Damage: 19
+    2:
+      Count: 1
+      Slot: 2
+      id: 283
+      Damage: 19
+    3:
+      Count: 1
+      Slot: 3
+      id: 283
+      Damage: 19
+    4:
+      Count: 1
+      Slot: 4
+      id: 283
+      Damage: 19
+    5:
+      Count: 1
+      Slot: 5
+      id: 283
+      Damage: 19
+    6:
+      Count: 1
+      Slot: 6
+      id: 283
+      Damage: 19
+    7:
+      Count: 1
+      Slot: 8
+      id: 283
+      Damage: 19
+    8:
+      Count: 1
+      Slot: 9
+      id: 283
+      Damage: 19
+    9:
+      Count: 1
+      Slot: 10
+      id: 283
+      Damage: 19
+    10:
+      Count: 1
+      Slot: 11
+      id: 283
+      Damage: 19
+    11:
+      Count: 1
+      Slot: 12
+      id: 354
+      Damage: 0
+    12:
+      Count: 64
+      Slot: 13
+      id: 3
+      Damage: 0
+    13:
+      Count: 1
+      Slot: 14
+      id: 283
+      Damage: 19
+    14:
+      Count: 1
+      Slot: 15
+      id: 354
+      Damage: 0
+    15:
+      Count: 1
+      Slot: 16
+      id: 283
+      Damage: 19
+    16:
+      Count: 64
+      Slot: 17
+      id: 41
+      Damage: 0
+    17:
+      Count: 64
+      Slot: 18
+      id: 65
+      Damage: 0
+    18:
+      Count: 64
+      Slot: 19
+      id: 65
+      Damage: 0
+    19:
+      Count: 60
+      Slot: 20
+      id: 60
+      Damage: 0
+    20:
+      Count: 64
+      Slot: 21
+      id: 50
+      Damage: 0
+    21:
+      Count: 64
+      Slot: 22
+      id: 41
+      Damage: 0
+    23:
+      Count: 64
+      Slot: 24
+      id: 65
+      Damage: 0
+    24:
+      Count: 64
+      Slot: 25
+      id: 65
+      Damage: 0
+    25:
+      Count: 23
+      Slot: 26
+      id: 65
+      Damage: 0
+    27:
+      Count: 64
+      Slot: 7
+      id: 348
+      Damage: 0
+    28:
+      Count: 64
+      Slot: 23
+      id: 348
+      Damage: 0
+  id: Chest
+  x: 194
+  y: 70
+  z: 61
+  pairx: 193
+  pairz: 61
+- 
+  Items:
+    - 
+      Count: 64
+      Slot: 0
+      id: 41
+      Damage: 0
+    - 
+      Count: 18
+      Slot: 1
+      id: 48
+      Damage: 0
+  id: Chest
+  x: 195
+  y: 71
+  z: 64
+  pairx: 196
+  pairz: 64
+- 
+  Items:
+    0:
+      Count: 1
+      Slot: 0
+      id: 277
+      Damage: 196
+    1:
+      Count: 64
+      Slot: 1
+      id: 4
+      Damage: 0
+    2:
+      Count: 1
+      Slot: 2
+      id: 283
+      Damage: 24
+    3:
+      Count: 46
+      Slot: 3
+      id: 4
+      Damage: 0
+    4:
+      Count: 64
+      Slot: 4
+      id: 3
+      Damage: 0
+    5:
+      Count: 64
+      Slot: 5
+      id: 57
+      Damage: 0
+    6:
+      Count: 63
+      Slot: 6
+      id: 383
+      Damage: 0
+    7:
+      Count: 1
+      Slot: 7
+      id: 277
+      Damage: 196
+    8:
+      Count: 1
+      Slot: 8
+      id: 277
+      Damage: 196
+    9:
+      Count: 1
+      Slot: 9
+      id: 277
+      Damage: 196
+    10:
+      Count: 64
+      Slot: 10
+      id: 89
+      Damage: 0
+    11:
+      Count: 64
+      Slot: 11
+      id: 3
+      Damage: 0
+    15:
+      Count: 9
+      Slot: 15
+      id: 3
+      Damage: 0
+    17:
+      Count: 20
+      Slot: 17
+      id: 348
+      Damage: 0
+    18:
+      Count: 37
+      Slot: 18
+      id: 89
+      Damage: 0
+    19:
+      Count: 13
+      Slot: 19
+      id: 263
+      Damage: 0
+    20:
+      Count: 40
+      Slot: 20
+      id: 53
+      Damage: 0
+    22:
+      Count: 64
+      Slot: 22
+      id: 41
+      Damage: 0
+    23:
+      Count: 1
+      Slot: 23
+      id: 277
+      Damage: 196
+    25:
+      Count: 16
+      Slot: 25
+      id: 57
+      Damage: 0
+    27:
+      Count: 13
+      Slot: 13
+      id: 41
+      Damage: 0
+    28:
+      Count: 1
+      Slot: 12
+      id: 54
+      Damage: 0
+  id: Chest
+  x: 196
+  y: 71
+  z: 64
+  pairx: 195
+  pairz: 64
+- 
+  id: Sign
+  x: 204
+  y: 71
+  z: 55
+  Text1: Death Machine
+  Text2:
+  Text3:
+  Text4:
+  creator: noah
+- 
+  id: Sign
+  x: 204
+  y: 71
+  z: 56
+  Text1: Death Machine
+  Text2:
+  Text3:
+  Text4:
+  creator: noah
+- 
+  id: Sign
+  x: 204
+  y: 71
+  z: 57
+  Text1: Death Machine
+  Text2:
+  Text3:
+  Text4:
+  creator: noah
+- 
+  id: Sign
+  x: 204
+  y: 71
+  z: 54
+  Text1: Death Machine
+  Text2:
+  Text3:
+  Text4:
+  creator: noah
+- 
+  id: Sign
+  x: 204
+  y: 71
+  z: 53
+  Text1: Death Machine
+  Text2:
+  Text3:
+  Text4:
+  creator: noah
