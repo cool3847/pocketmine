@@ -1,5 +1,6 @@
-#!/bin/bash
-PMMP_VERSION="Alpha_1.3.9"
+Kjkjkk#!/bin/bash
+PMMP
+_VERSION="Alpha_1.3.9"
 update=off
 
 while getopts "ud" opt; do
